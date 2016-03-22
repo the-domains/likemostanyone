@@ -1,6 +1,6 @@
 name: likemostanyone
 favicon: null
-layout_spectrum: 0.5581208805087954
+layout_spectrum: 0.40972
 typography_spectrum: 0.1764632617123425
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.5945929596200585
+  brandStrength: 0.4375
   lightness: 0.4924207148142159
   saturation: 0.43093992909416556
   rhythmicContrast: 0.9606147836893797
