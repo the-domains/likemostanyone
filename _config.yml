@@ -1,7 +1,7 @@
 name: likemostanyone
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.33177
+layout_spectrum: 0.25626
+typography_spectrum: 0.07293
 title: Like Most Anyone
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#aeaeae'
-    - '#c8c8c8'
-    - '#080808'
-    - '#747474'
-    - '#4f4f4f'
+    - '#000000'
+    - '#2b4461'
+    - '#5e87a0'
+    - '#95bece'
+    - '#e0f2f8'
   brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0.625
+  saturation: 0
+  rhythmicContrast: 0.25
 purpose: []
