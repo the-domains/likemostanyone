@@ -1,29 +1,41 @@
-name: likemostanyone
-favicon: null
-layout_spectrum: 0.25626
-typography_spectrum: 0.38872
 title: Like Most Anyone
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0
+  brandStrength: 0.5
+  lightness: 0.4946294
   brandColors:
     - '#000000'
     - '#2b4461'
     - '#5e87a0'
     - '#95bece'
     - '#e0f2f8'
-  brandStrength: 0.5
-  lightness: 0.625
-  saturation: 0
-  rhythmicContrast: 0.25
-purpose: []
+  rhythmicContrast: 0.09183671
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: likemostanyone
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.4871106
+layout_spectrum: 0.25626
